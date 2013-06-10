@@ -1,4 +1,4 @@
-//if( !µ ) var µ = {};
+if( !µ ) var µ = {};
 
 µ.req = function req(requestName) {
 	// Put the requestName in LowerCase.
