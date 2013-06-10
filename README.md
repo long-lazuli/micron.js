@@ -1,4 +1,1 @@
-micron.js
-=========
-
-Micron Framework JS
+Use gh-pages instead of master.
